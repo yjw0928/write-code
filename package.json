@@ -1,6 +1,6 @@
 {
   "name": "yjwui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/yjwui.es.js",
   "type": "module",
@@ -17,6 +17,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.4.1",
+    "@types/react": "^18.2.14",
     "react": "^18.1.0",
     "typescript": "^4.9.5",
     "vite": "^2.9.6"
