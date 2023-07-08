@@ -1,5 +1,5 @@
 {
-  "name": "yjwui",
+  "name": "@yangjiwencode/yjwui",
   "version": "1.0.1",
   "description": "",
   "main": "dist/yjwui.es.js",
